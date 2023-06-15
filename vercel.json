@@ -10,11 +10,11 @@
   "rewrites": [
     {
       "source": "/netease/:match*",
-      "destination": "http://netease-cloud-music-api-theta-ten-45.vercel.app/:match*"
+      "destination": "http://129.150.45.86:30001/:match*"
     },
     {
       "source": "/r3play/:match*",
-      "destination": "http://netease-cloud-music-api-theta-ten-45.vercel.app/:match*"
+      "destination": "http://129.150.45.86:35530/:match*"
     },
     {
       "source": "/(.*)",
